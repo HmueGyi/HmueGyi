@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @HmueGyi  
+# 👋 Hi, I’m Hmue Set San  
 - 👀 I’m passionate about AI and Robotics.  
 - 🌱 Currently learning and exploring new technologies.  
 - 💡 I enjoy working with team.  
