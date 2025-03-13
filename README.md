@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Hmue Set San  
 - 👀 I’m passionate about AI and Robotics.  
 - 🌱 Currently learning and exploring new technologies.  
-- 💡 I enjoy working with team.  
+- 💡 I enjoy working with team.
+- 🤖 Learning ML, Deep Learning & Robotics  
 - 💞️ Open to collaboration on AI, machine learning, and automation projects.  
 - 📫 Reach me at hmuesett2002@gmail.com.  
 - 😄 Pronouns: Hmue Gyi.  
