@@ -11,11 +11,10 @@
 - 🔍 Interested in AI, automation, and robotics projects  
 - 💞 Open to working with teams & learning from others  
 
-
-- 📧 Email: **hmuesett2002@gmail.com**  
+## 📬 Let's Connect!  
+- 📧 Feel free to reach me at: **hmuesett2002@gmail.com**  
 - 😄 Pronouns: **Hmue Gyi**  
-- ⚡ Fun fact: *My dream is to build my own AI assistant!*  
-
+- ⚡ Fun fact: *My dream is to build my own AI assistant!*
 ---
 
 <!---
