@@ -4,7 +4,7 @@
 
 ## 🧠 What I'm Learning  
 - 🤖 Machine Learning, Deep Learning & Robotics  
-- 🛠️ Exploring Python, ROS 2, TensorFlow & OpenCV  
+- 🛠️ Exploring Python, ROS 2, TensorFlow, Pytorch & OpenCV  
 - 🌱 Always curious about new technologies  
 
 ## 💡 Let's Collaborate!  
