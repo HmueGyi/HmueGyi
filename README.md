@@ -14,7 +14,7 @@
 ## 📬 Let's Connect!  
 - 📧 Feel free to reach me at: **hmuesett2002@gmail.com**  
 - 😄 Pronouns: **Hmue Gyi**  
-- ⚡ Fun fact: *I like using dark mode it feels like it keeps the “bugs” away! 😄*
+- ⚡ Fun fact: *I like using dark mode because it feels like it keeps the “bugs” away! 😄*
 ---
 
 <!---
